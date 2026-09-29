@@ -1,21 +1,80 @@
-# 👋 Hey there! I'm Amanul Farhan
-🙏🏻 Welcome to my Github profile!
-I am a Software Developer from Kerala, India 🇮🇳
+# 👋 Hey, I'm Amanul Farhan K S
 
-I love building software, learning, and trying out new technologies.
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amanulfarhan)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanulfarhanofficial@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9747658149)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aman_007)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AmanulFarhan)
-## What I'm Up To
-👨🏻‍💻 Currently working on Backend Devolopment 🌐
+🎓 B.Tech CSE student at **College of Engineering Chengannur**  
+🤖 Exploring **AI/ML, Generative AI, RAG & LLM Applications**  
+💻 Building practical AI-powered and full-stack systems from Kerala, India 🇮🇳
 
-👨🏻‍💻 Tech Lead at GTech Mulearn CHN 
+I enjoy understanding how things work under the hood, building systems from scratch, and turning ideas into working products.
 
-📫 Reach me at: amanulfarhan2005@gmail.com
-## Language and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanulFarhan&show_icons=true&theme=tokyonight&card_width=400&card_height=300" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanulFarhan&layout=compact&theme=tokyonight&langs_count=8&card_width=500" alt="Top Languages" />
-</div>
+## 🚀 What I'm Working On
 
+- 🤖 Building AI-powered applications using **LLMs, RAG, Agents & NLP**
+- 🧠 Learning and experimenting with **Transformers, PyTorch & Deep Learning**
+- 🔎 Building RAG systems using **Embeddings, Vector Search, Pinecone & pgvector**
+- ⚙️ Developing backend systems with **Python, FastAPI & PostgreSQL**
+- 🛠️ Exploring AI-assisted software development and agentic workflows
+
+## 🧠 Featured Projects
+
+### 🏛️ MantriOS
+AI-assisted government petition processing platform involving multilingual summarization, classification, intelligent routing, RAG and multi-agent workflows.
+
+### ⚖️ Nyaya
+Indian Legal RAG Assistant built with **FastAPI, React, Gemini, Sentence Transformers and Pinecone**.
+
+### 🧠 GPT from Scratch
+Implemented a **decoder-only Transformer language model from scratch in PyTorch**, including self-attention, multi-head attention, Transformer blocks, training and autoregressive generation.
+
+### 🧍 PosturePal
+Real-time posture and blink monitoring system using **MediaPipe, XGBoost, FastAPI and React**.
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+### GenAI / RAG
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge)
+
+### Backend / Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Databases / Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 👨‍💻 Leadership & Community
+
+- 🎤 Technical speaker and workshop mentor
+- 🏆 Judge for hackathons and idea-pitching events
+- 🤝 Leadership roles at **FOCES CEC** and **GTech µLearn CHN**
+- 👥 Mentored **30+ students**
+- 🎯 Organized and hosted technical events, hackathons and talks
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanulfarhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanulfarhan2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanulFarhan)
+
+---
+
+⭐ Always learning. Always building.
